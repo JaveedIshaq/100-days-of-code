@@ -41,16 +41,14 @@ Oh!!! And I also fixed a typo in fcc curriculum on github. :)
 
 
 ### Day 5: September 12. Thursday
-**Today's Progress**:Completed technical documentation project(media query is not working fine). Completed layout of final project, personal portfolio. Spend most of the time trying to place at header background. In preparation to html5 test, learned how to used video and audio tags.
+**Today's Progress**:Completed technical documentation project(media query is not working fine). Completed layout of final project, personal portfolio. Spend most of the time trying to place at header background. In preparation to html5 test, 
 
 **Thoughts:** Despite continues interuption of internet, made some progress. Internet was annoying all the time . Deep and focus work technique is working very well for me.
 In the final project I decided to deviate from example design and show my own skills. So started the project with my own colors, and placed an image in header background. Internet is not helpful at all so I decided to quit early.
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/JaveedIshaq/pen/wvwRJoR)
 
-**Link to work:** [HTML video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
-**Link to work:** [Personal portfolio](https://codepen.io/HassanRaja/full/bxJboe/)
 
 ### Day 6: September 13. Friday
 **Today's Progress**Internet was not working today either, and will be availabe tommorrow also. So I take the opportunity to learn photoshop from a course I previously downloaded. Photoshop is essential to get better at front-end developement as far I know. 
